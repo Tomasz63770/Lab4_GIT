@@ -46,13 +46,13 @@ Tag oznacza stabilną wersję projektu.
 Wykorzystano polecenia:
 
 git log --graph --oneline --all
-gitk
 
 w celu wizualizacji historii commitów.
 
 7. REPOZYTORIUM
 Link do repozytorium:
 
+https://github.com/Tomasz63770/Lab4_GIT.git
 
 8. WNIOSKI
 Ćwiczenie pozwoliło na praktyczne zapoznanie się z:
