@@ -1,5 +1,4 @@
-LAB 4 GIT – CZĘŚĆ 1
-Narzędzia w branży IT
+LAB 4 
 
 1. CEL ĆWICZENIA
 Celem ćwiczenia było:
